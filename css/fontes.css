@@ -1,0 +1,36 @@
+@charset "uft-8";
+nav#mm ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    text-decoration: none;
+    
+    left:200px;
+    
+}
+nav#mm li {
+    display: inline-block;
+    background-color: lightcoral;
+    padding: :10px;
+    margin: 2px;
+}
+nav#mm {
+    display: block;
+}
+header{
+    border-bottom: 1px  solid;
+    height: 100px;
+    font-size: 28px;
+}
+main h1{
+    font-size: 30px;
+    margin-left: 500px;
+}
+p{
+    font-family: serif;
+}
+.container{
+    border:5px solid blue;
+    width:80%;
+    margin:5px auto;
+}
